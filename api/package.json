@@ -10,7 +10,7 @@
     "body-parser": "^1.18.3",
     "express": "4.17.1",
     "dotenv": "8.0.0",
-    "nanoid": "2.0.3"
+    "nanoid": "3.1.31"
   },
   "devDependencies": {
     "nodemon": "1.19.1"
